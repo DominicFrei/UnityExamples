@@ -14,8 +14,11 @@ This repository is a collection of examples for Unity3D.
 ## Important info about the content
 - The examples are usually simplified without the usage of patterns, tests, null checks etc.
 They are meant to only specifically show what's necessary in the example.
-Very good examples for patterns, testing and all other necessities in software development can be found on Github and Stackoverflow already.
+Very good examples for patterns, testing and all other necessities in software development can be found on Github and Stackoverflow already. :-)
 - Unity3D editor version used for the examples: `2020.1.5f1`
+
+## Structure of the project
+- You will find one folder per example in the `Asset` folder in the Unity editor. Within those folder you'll find the usual structure you might know from other projects like scenes, scripts, prefabs etc.
 
 ## Issues
 - If you have any issues with the examples provided feel free to open an issue here in Github. Technical problems, questions, etc. are all welcome. Also suggestions for examples not yet included.
