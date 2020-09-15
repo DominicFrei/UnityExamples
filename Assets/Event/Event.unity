@@ -298,7 +298,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 384142612}
-        m_TargetAssemblyTypeName: EventButton, Assembly-CSharp
+        m_TargetAssemblyTypeName: Event_Button, Assembly-CSharp
         m_MethodName: OnButtonClick
         m_Mode: 1
         m_Arguments:
