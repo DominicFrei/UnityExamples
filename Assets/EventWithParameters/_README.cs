@@ -16,6 +16,7 @@
  *   - add a script component: EventWithParameters_Text.cs
  * - EventManager:
  *   - add a script component: EventWithParameters_EventManager.cs
+ *   
  * Everything else is done in code.
  * 
  */

@@ -22,6 +22,7 @@ Very good examples for patterns, testing and all other necessities in software d
 - Audio: play audio via an AudioSource
 - Events: register and invoke a simple event
 - EventWithParameters: use events with parameters
+- MovingObjects: simple usage of Vector3 and Time.deltaTime
 - UserInput\_Mouse: register mouse clicks on GameObject's
 
 ## Examples already planned for the future

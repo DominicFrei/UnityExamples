@@ -11,6 +11,7 @@
  * - add a script component: Audio.cs
  * - use the audio clip in the folder as the GameObjects's AudioClip
  * - add an AudioSource component, using the audio clip in the folder as its AudioClip
+ * 
  * Everything else is done in code.
  * 
  */

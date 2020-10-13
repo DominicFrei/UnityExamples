@@ -14,6 +14,7 @@
  *   - add a script component: Event_Text.cs
  * - EventManager:
  *   - add a script component: Event_EventManager.cs
+ *   
  * Everything else is done in code.
  * 
  */
