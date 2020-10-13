@@ -1,7 +1,3 @@
-```
-[FOR HIRE] Looking for a Unity3D or iOS developer? Send me a message! [FOR HIRE]
-```
-
 # Unity3D Examples
 This repository is a collection of examples for Unity3D.
 
@@ -24,8 +20,10 @@ Very good examples for patterns, testing and all other necessities in software d
 - If you have any issues with the examples provided feel free to open an issue here in Github. Technical problems, questions, etc. are all welcome. Also suggestions for examples not yet included.
 
 ## Examples included so far
+- Audio: play audio via an AudioSource
 - Events: register and invoke a simple event
 - EventWithParameters: use events with parameters
+- UserInput\_Mouse: register mouse clicks on GameObject's
 
 ## Examples already planned for the future
 - PlayerPrefs
